@@ -250,6 +250,7 @@ We are more than 3,190 data scientists and data geeks in our community.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ). 
 - [Gregory Piatetsky](https://twitter.com/kdnuggets) -  KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher.
+- [Dan Sullivan](https://twitter.com/dandsapptech) -  Data Scientist and Big Data Architect with background in computer science and computational biology. Emphasizes algorithms, techniques, tools and best practices in analytics.
 
 ## Toolboxes - Environment
 
@@ -270,6 +271,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Apache Hama](http://hama.apache.org/) Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. 
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab)
+ * [Spark](https://spark.apache.org/) Apache Spark is a big-data, in-memory anlysis platform. Includes MLib machine learning package.
 
 ## Presentations
 
